@@ -6,7 +6,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Links &#128269;
 <ul>
 <li>Live Site URL: <a href="https://0xabdul.github.io/Stats-preview-card-component/">Click Here</a></li><br>
-<li>Solution URL: <a href="">Click Here</a></li>
+<li>Solution URL: <a href="https://www.frontendmentor.io/solutions/stats-preview-card-component-iE7NWeDXrf">Click Here</a></li>
 </ul><br>
 
 ## Built with &#128295;
