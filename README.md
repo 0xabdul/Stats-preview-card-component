@@ -30,7 +30,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## About In This Project &#11088;
 <ul>
   <li>I used in this project  in page transistion</li
-  <li>In this project is most responsive every 10px</li>
+  <li>In this project is most responsive every 100px</li>
   <li> best ui</li>
   </ul><br>
 
