@@ -45,7 +45,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Acknowledgments<br>
 <ul>
-  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
+  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>.
 
 
 
